@@ -8,4 +8,5 @@
  
 ### 3. Run the Docker Image
  
- --> docker run -d -p 8080:80 xops-app
+
+ --> docker run -p 8080:80 xops-app
